@@ -3,14 +3,14 @@
 
 ## Question 1
 A recreation of John Snow's cholera outbreak map, where pins are pump locations, and circles represent number of deaths.
-<iframe src='snow-map.html' frameBorder=0></iframe>
+<iframe src='snow-map.html'></iframe>
 <br>
 
 ## Question 2
 A 3D scatterplot that visualizes Francis Galton's data on parental heights for predicting child height.
-<iframe src='galton_fig.html' frameBorder=0></iframe>
+<iframe src='galton_fig.html'></iframe>
 <br>
 
 ## Question 3
 A choropleth depicting the population of each department in France.
-<iframe src='france_fig.html' frameBorder=0></iframe>
+<iframe src='france_fig.html'></iframe>
