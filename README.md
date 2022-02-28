@@ -3,7 +3,7 @@
 
 ## Question 1
 A recreation of John Snow's cholera outbreak map, where pins are pump locations, and circles represent number of deaths.
-<iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
+<iframe src='../snow-map.html' width=600 height=400 frameBorder=0></iframe>
 <br>
 
 ## Question 2
