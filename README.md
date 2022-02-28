@@ -1,29 +1,19 @@
-## Welcome to GitHub Pages
+# Homework 6 for History of Data Science, Winter 2022 @ UC San Diego
+## John Driscoll (jjdrisco@ucsd.edu)
 
-You can use the [editor on GitHub](https://github.com/jjdrisco/dsc90-wi22-hw06/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Question 1
+A recreation of John Snow's cholera outbreak map, where pins are pump locations, and circles represent number of deaths.
+<iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Question 2
+A 3D scatterplot that visualizes Francis Galton's data on parental heights for predicting child height.
+<iframe src='../galton-scatter.html' width=800 height=600 frameBorder=0></iframe>
+<br>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Question 3
+A choropleth depicting the population of each department in France.
+<iframe src='../france-pop.html' width=800 height=600 frameBorder=0></iframe>
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
